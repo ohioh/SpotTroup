@@ -6,7 +6,7 @@
   "short_name": "Tjark Ziehm",
   "lang": "de",
   "scope": ".",
-  "start_url": "/index.xhtml",
+  "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#5eb638",
